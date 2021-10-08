@@ -27,7 +27,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/Owner/Desktop/codelabs/class-8-exercise/routing-practice/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
